@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5898-0901
+
+ Directory of C:\Users\Ankit\Desktop\testFolder
+
+08/30/2018  07:35 PM    <DIR>          .
+08/30/2018  07:35 PM    <DIR>          ..
+08/30/2018  07:35 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,440,054,784 bytes free
